@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-mt8ls3.bemvindoeletronicos.com.br/sitemap.xml
